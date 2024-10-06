@@ -20,7 +20,7 @@ function toggleMode() {
       "src",
       "./assets/avatar-light.png",
       "alt",
-      "Foto de Mayke Brito sorrindo, usando óculos escuro e jaqueta preta, barba feita e fundo azul."
+      "Foto de Erick Almeida de lado com capuz."
     )
   } else {
     // se tive sem light mode, manter a imagem normal
@@ -28,7 +28,7 @@ function toggleMode() {
       "src",
       "./assets/avatar.png",
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo."
+      "Foto de Erick Almeida de lado com capuz."
     )
   }
 }
